@@ -1,6 +1,0 @@
-Project Milestone 1 Readme File
-Classic Cars 3 page static site.  
-Page 1 is home page, will introduce the site and provide navigation.
-Page 2 will be a couple of UK Cars
-Page 3 will be a couple of American Classics.
-
