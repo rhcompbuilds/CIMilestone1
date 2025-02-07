@@ -6,4 +6,4 @@ I decided to create this as a resource for restoration enthusiasts as well as a 
 
 I have designed it to be a responsive website which is simple to navigate and easy to read.
 ---
-![Mock up](images\responsivesiteexample.png "Mock-up of responsive website")
+![Mock up](images/responsivesiteexample.png "Mock-up of responsive website")
