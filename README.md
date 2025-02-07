@@ -6,4 +6,4 @@ I decided to create this as a resource for restoration enthusiasts as well as a 
 
 I have designed it to be a responsive website which is simple to navigate and easy to read.
 ---
-![responsive website]("C:\Users\rhcom\Documents\App Development level 5\Project Milestone 1\Images\responsivesiteexample.png"&auto=format&fit=crop&w=987&q=80)
+![responsive website]("C:\Users\rhcom\Documents\App Development level 5\Project Milestone 1\images\responsivesiteexample.png"&auto=format&fit=crop&w=987&q=80)
