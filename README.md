@@ -27,4 +27,13 @@ videos.html - Iages and videos of the restoration process.  I could have called 
 images/ - Folder containing all media related files used on the site:
   - carousel/ - Folder of images in the carousel
     - cortinaaftershow.jpg : First image in the carousel.
-    - mk1cortinashowcropped.jpg : 
+    - mk1cortinashowcropped.jpg : 2nd image in the carousel.  This is the image for the link to the MK1 Cortina Owners Club.
+    - robsenginesml.jpg : 3rd image in the carousel.
+  - linketc/ - Folder of the images used for links.  I have also stored the royalty free images here that I have used for examples of finished cortina's for ideas on colour scheme and different styles of Cortina's that Rob used as inspiration for this project.
+    - anotherrandom.jpg : 5 door Cortina, White with a red stripe.  This was looking at chrome on the grill and trim.
+    - cortina1964.jpg : Racing style paint work
+    - burtonpower.svg : The logo of the company ussed to stroke and bore the engine.
+    - dannyweld.svg : The logo of the company used for welding and spraying the Cortina.
+    - mk1cortinashow.jpg : The main picture of the Facebook page for the owners club.
+    - modalbuttonsbeforechange.jpg : This is an image of the original buttons I was implementing.  I didn't want to rely on Bootstrap so much so changed it.
+    - 
