@@ -25,5 +25,6 @@ index.html - The home page of the site
 guide.html - The step by step unordered list with accompanied images
 videos.html - Iages and videos of the restoration process.  I could have called this page gallery, but I felt videos made it more obvious as to what the page contains.
 images/ - Folder containing all media related files used on the site:
-  - gallery/ - Folder of images in the carousel
-    - 
+  - carousel/ - Folder of images in the carousel
+    - cortinaaftershow.jpg : First image in the carousel.
+    - mk1cortinashowcropped.jpg : 
