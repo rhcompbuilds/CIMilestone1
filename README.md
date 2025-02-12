@@ -23,7 +23,7 @@ This page contains more photos and videos of each part of the restoration.  Each
 ## Files & Folders
 index.html - The home page of the site
 guide.html - The step by step unordered list with accompanied images
-videos.html - Iages and videos of the restoration process.  I could have called this page gallery, but I felt videos made it more obvious as to what the page contains.
+videos.html - Images and videos of the restoration process.  I could have called this page gallery, but I felt videos made it more obvious as to what the page contains.
 images/ - Folder containing all media related files used on the site:
   - carousel/ - Folder of images in the carousel
     - cortinaaftershow.jpg - First image in the carousel.
@@ -41,3 +41,25 @@ images/ - Folder containing all media related files used on the site:
     - responsivesiteexample.png - Image within this readme.
     - screenshotnotusednavelements.png - A screenshot of the Nav elements I decided against using for this site.
     - standardgt.jpg - Another image the we used when looking at the detailing on different Cortina versions.
+- gallery/ - This folder contains all of the photos taken from the restoration on the Cortina.  I also added links to videos into the website, all of which are contained within the gallery page.
+    - archespainted.jpg - A photo of the extended arches attached to the Cortina, after they were painted.
+    - gearboxandsubframe.jpg - Taken from the underside of the Cortina.
+    - glassandgrill.jpg - Photo taken of the front, after paining and the windscreen and grill were added.
+    - initialstate.jpg - This is an image of the Cortina with all body work complete, before primer, smoothing and painting.
+    - onroadaftershow.jpg - This was taken just before the Cortina was recovered.  The fuel pump casing has a crack in it and was letting in too much air, this stopped enough fuel from being pulled into the engine.
+    - originalstate.jpg - This is how the Cortina looked when it was purchased.
+    - paintedfinished.jpg - Just after Spraying and laquering.
+    - primered.jpg - Midway through primering and smoothing the body.
+    - rightside.jpg - Right hand side of the Cortina before engine was fitted.
+    - robsengine.jpg - Full size image of the Cologne engine, installed and running.
+    - rollingchassisfinished.jpg - Before engine was put in but with gearbox and running gear fitted.
+    - rollingchassispaint.jpg - Just after grill and lights are fitted.
+    - rollingchassispainted.jpg - Painted but no laquer.
+    - rustdamage.jpg - Body filler and rust damage before welding.
+    - smoothing.jpg - After a cover coat to check for areas that still need smoothing or sanding.
+    - thumbnailforfinalwalkaround.jpg - Image used for the final walkaround video before being transported back home.
+    - weldingwork.jpg - Rear quarter after rust and holes have been cut out and newly shaped panel welded on.
+    - weldingworkfront.jpg - smoothing paint showing the inconsistencies in the front of the Cortina.
+
+---
+
