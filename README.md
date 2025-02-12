@@ -26,14 +26,18 @@ guide.html - The step by step unordered list with accompanied images
 videos.html - Iages and videos of the restoration process.  I could have called this page gallery, but I felt videos made it more obvious as to what the page contains.
 images/ - Folder containing all media related files used on the site:
   - carousel/ - Folder of images in the carousel
-    - cortinaaftershow.jpg : First image in the carousel.
-    - mk1cortinashowcropped.jpg : 2nd image in the carousel.  This is the image for the link to the MK1 Cortina Owners Club.
-    - robsenginesml.jpg : 3rd image in the carousel.
+    - cortinaaftershow.jpg - First image in the carousel.
+    - mk1cortinashowcropped.jpg - 2nd image in the carousel.  This is the image for the link to the MK1 Cortina Owners Club.
+    - robsenginesml.jpg - 3rd image in the carousel.
   - linketc/ - Folder of the images used for links.  I have also stored the royalty free images here that I have used for examples of finished cortina's for ideas on colour scheme and different styles of Cortina's that Rob used as inspiration for this project.
-    - anotherrandom.jpg : 5 door Cortina, White with a red stripe.  This was looking at chrome on the grill and trim.
-    - cortina1964.jpg : Racing style paint work
-    - burtonpower.svg : The logo of the company ussed to stroke and bore the engine.
-    - dannyweld.svg : The logo of the company used for welding and spraying the Cortina.
-    - mk1cortinashow.jpg : The main picture of the Facebook page for the owners club.
-    - modalbuttonsbeforechange.jpg : This is an image of the original buttons I was implementing.  I didn't want to rely on Bootstrap so much so changed it.
-    - 
+    - anotherrandom.jpg - 5 door Cortina, White with a red stripe.  This was looking at chrome on the grill and trim.
+    - cortina1964.jpg - Racing style paint work
+    - burtonpower.svg - The logo of the company ussed to stroke and bore the engine.
+    - dannyweld.svg - The logo of the company used for welding and spraying the Cortina.
+    - mk1cortinashow.jpg - The main picture of the Facebook page for the owners club.
+    - modalbuttonsbeforechange.jpg - This is an image of the original buttons I was implementing.  I didn't want to rely on Bootstrap so much so changed it.
+    - rallystyleGT.jpg - We used this to look at the details such as the 'C' pillar vents to try and find the correct ones for the GT.
+    - randomlotuscortina.jpg - We used this to look at the details such as the 'C' pillar vents to try and find the correct ones for the GT.
+    - responsivesiteexample.png - Image within this readme.
+    - screenshotnotusednavelements.png - A screenshot of the Nav elements I decided against using for this site.
+    - standardgt.jpg - Another image the we used when looking at the detailing on different Cortina versions.
