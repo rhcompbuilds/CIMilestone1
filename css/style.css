@@ -100,7 +100,7 @@ th {
     width: 100%;
     height: auto;
 }
-.bg-body-tertiary {
+.bg-body-tertiary !important {
     background-color: goldenrod;
     color: black
 }
