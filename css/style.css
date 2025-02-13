@@ -104,6 +104,12 @@ th {
     background-color: goldenrod !important;
     color: black
 }
+.navbar-brand {
+  color: blue;
+}
+.navbar-brand active {
+  color:black;
+}
 /*Responsive Screen setup for 3 sizes*/
 @media only screen and (max-width: 960px) {
  .responsive {
