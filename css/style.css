@@ -44,7 +44,7 @@ background-color: whitesmoke;
   clear: both;
 }  
 /*Footer*/
-th {
+.th {
     text-align: center;
 }
 /*Modal layout*/
@@ -115,7 +115,7 @@ li{
 border-bottom:1px solid black;
 }
 li:hover{
-background-color:gray;
+color:gray;
 
 }
 li:hover a{
