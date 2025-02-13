@@ -100,8 +100,8 @@ th {
     width: 100%;
     height: auto;
 }
-.bg-body-tertiary !important {
-    background-color: goldenrod;
+.bg-body-tertiary {
+    background-color: goldenrod !important;
     color: black
 }
 /*Responsive Screen setup for 3 sizes*/
