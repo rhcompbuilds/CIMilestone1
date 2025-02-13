@@ -100,7 +100,7 @@ th {
     width: 100%;
     height: auto;
 }
-.navbar navbar-expand-lg bg-body-tertiary {
+.navbar {
     background-color: goldenrod !important;
     color: black
 }
