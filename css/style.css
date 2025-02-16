@@ -1,5 +1,11 @@
 /* Milestone Project 1 CSS Stylesheet*/
 /* Setup overall layout */
+.navbar-brand {
+  color: black !important;
+}
+.navbar-brand :active {
+  text-emphasis: bold;
+}
 .row{
   background-color: aliceblue;
 }
@@ -163,10 +169,11 @@ width: 24.99999%;
 color: blue !important;
 }
 .nav-link {
-color: blue;
+color: black;
 }
 .nav-link active {
 color:black;
+text-emphasis: bold;
 }
 /*Responsive Screen setup for 3 sizes*/
 @media only screen and (max-width: 960px) {
