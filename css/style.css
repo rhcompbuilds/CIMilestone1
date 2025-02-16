@@ -1,15 +1,15 @@
 /* Milestone Project 1 CSS Stylesheet*/
 /* Setup overall layout */
-#row{
+.row{
     background-color: aliceblue;
 }
-#content1 {
+.content1 {
     font-size: x-large;
 }
-#content1 select {
+.content1 select {
     display: none;
   }
-#content2 {
+.content2 {
     font-size: smaller;
 }
 /* Titles of each page and modal*/
@@ -181,10 +181,10 @@ background-color:gray;
   .smlsc {
       font-size: smaller;
     }    
-  #content1 ul {
+  .content1 ul {
       display: none;
     }
-  #content1 select {
+  .content1 select {
       display: inline-block;
       width: 100%;
     }       
@@ -197,10 +197,10 @@ background-color:gray;
   .smlsc {
       display: inline;
     }
-  #content1 {
+  .content1 {
       font-size: small;
     } 
-  #reimg {
+  .reimg {
       display: none;
     }   
 }
