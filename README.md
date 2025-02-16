@@ -68,8 +68,8 @@ images/ - Folder containing all media related files used on the site:
 ## Testing
 I have added a screenshot of each of the pages within /wireframes.
 ### HTML Validator
-![HTML](images/wireframes/index.html_validator_screenshot.jpg "HTML Validator Test.")
+![HTML](wireframes/index.html_validator_screenshot.jpg "HTML Validator Test")
 
 ### CSS Validator
-![Mock up](images/linksetc/responsivesiteexample.png "Mock-up of responsive website")
+![CSS](wireframes/css_validator.jpg "CSS Validator Test")
 ---
