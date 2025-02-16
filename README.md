@@ -72,4 +72,11 @@ I have added a screenshot of each of the pages within /wireframes.
 
 ### CSS Validator
 ![CSS](wireframes/css_validator.jpg "CSS Validator Test")
+
+## Lighthouse Validation
+![INDEX](wireframes/index_lighthouse.png "Index / Homepage")
+
+![GUIDE](wireframes/guide_lighthouse.png "Guide Page")
+
+![Images & Videos](wireframes/gallery_lighthouse.png "Gallery Page")
 ---
