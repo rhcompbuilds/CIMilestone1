@@ -116,7 +116,9 @@ margin:0;
 .drop-select {
   list-style: none;
 padding:10px;
-
+.vidmodal {
+  width: 100% 
+}
 border-bottom:1px solid black;
 }
 .drop-select:hover{
@@ -144,7 +146,6 @@ text-align: center;
 * {
   box-sizing: border-box;
 }
-
 .responsive {
 padding: 0 6px;
 float: left;
