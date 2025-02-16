@@ -12,6 +12,10 @@
 .content2 {
     font-size: smaller;
 }
+.reimg {
+  width: 100%;
+  height: auto;
+}
 /* Titles of each page and modal*/
 h1{
     padding: 10px;    
