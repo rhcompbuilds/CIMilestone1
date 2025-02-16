@@ -1,15 +1,6 @@
-var dropdown = document.getElementsByClassName("dropdown");
-var attribute;
-var myFunction = function() {
-attribute = this.getAttribute("data-target");
-    var x = document.getElementById(attribute);
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
+function openlink(selectElement) {
+    var url = selectElement.value;
+    if (url) {
+        window.open(url, '_blank'); // Opens the link in a new tab
     }
-  
-};
-for (var i = 0; i < dropdown.length; i++) {
-    dropdown[i].addEventListener('click', myFunction, false);
 }
