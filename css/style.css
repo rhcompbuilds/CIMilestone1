@@ -56,7 +56,7 @@ th {
   align-items: center;
 }
 .vidsize {
-  padding: auto;
+  padding: 10%;
 }
 .item {
   width: 30%;
@@ -116,10 +116,10 @@ margin:0;
 .drop-select {
   list-style: none;
 padding:10px;
+border-bottom:1px solid black;
+}
 .vidmodal {
   width: 100%
-}
-border-bottom:1px solid black;
 }
 .drop-select:hover{
 background-color:gray;
