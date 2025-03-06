@@ -85,3 +85,28 @@ I have added a screenshot of each of the pages within /wireframes.
 ![Images & Videos](wireframes/gallery_lighthouse.png "Gallery Page")
 
 ---
+
+## Installation and Setup
+
+To set up the project locally, follow these steps:
+
+    Clone the repository:
+
+    git clone [https://github.com/rhcompbuilds/CIMilestone1]
+
+    Open the project folder in your preferred code editor or file browser.
+    Open index.html, gallery.html, or guide.html in your browser to view the respective pages.
+
+    Bootstrap, the necessary CDN links are included in the <head> section of the HTML files.
+    
+## Deployment
+
+The project is deployed on GitHub Pages and can be accessed at:
+[https://rhcompbuilds.github.io/CIMilestone1/]
+Attribution
+
+    Images: All images and videos are privately taken and stored locally on my PC.  
+    
+    Bootstrap: Bootstrap is used for responsive design. The relevant attribution is included in the code.
+    
+Thanks to Spencer Bariball for his support & guidance with this project.
