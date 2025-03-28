@@ -86,6 +86,13 @@ I have added a screenshot of each of the pages within /wireframes.
 
 ---
 
+## Creation and Making Changes
+
+During the creation and editing of the site, I used 3 main commands in the terminal.
+To add the changes to commit, I used git add .  This adds all changes to the commit.
+Next I used: git commit -m "I would then decribe my changes between the speech marks."
+Finally I used: git push  to create the commit and sync it.
+
 ## Installation and Setup
 
 To set up the project locally, follow these steps:
