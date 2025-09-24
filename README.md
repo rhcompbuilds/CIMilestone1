@@ -8,7 +8,7 @@ I decided to create this as a resource for restoration enthusiasts as well as a 
 
 I have designed it to be a responsive website which is simple to navigate and easy to read.
 ---
-![Mock up](images/linksetc/responsivesiteexample.png "Mock-up of responsive website")
+![Mock up](assets/images/linksetc/responsivesiteexample.png "Mock-up of responsive website")
 ---
 
 ## Website Features
@@ -68,21 +68,21 @@ images/ - Folder containing all media related files used on the site:
 ## Testing
 I have added a screenshot of each of the pages within /wireframes.
 ### HTML Validator
-![HTML](wireframes/index.html_validator_screenshot.jpg "HTML Validator Test")
+![HTML](assets/wireframes/index.html_validator_screenshot.jpg "HTML Validator Test")
 
 ### CSS Validator
-![CSS](wireframes/css_validator.jpg "CSS Validator Test")
+![CSS](assets/wireframes/css_validator.jpg "CSS Validator Test")
 
 ## Lighthouse Validation
 
 ### Homepage
-![INDEX](wireframes/index_lighthouse.png "Index / Homepage")
+![INDEX](assets/wireframes/index_lighthouse.png "Index / Homepage")
 
 ### Guide Page
-![GUIDE](wireframes/guide_lighthouse.png "Guide Page")
+![GUIDE](assets/wireframes/guide_lighthouse.png "Guide Page")
 
 ### Images & Videos Page
-![Images & Videos](wireframes/gallery_lighthouse.png "Gallery Page")
+![Images & Videos](assets/wireframes/gallery_lighthouse.png "Gallery Page")
 
 ---
 
